@@ -1,2 +1,2 @@
 # AI_Certificate
-This repository contains my Artificial Intelligence certificate
+This repository contains my Artificial Intelligence certificate.
